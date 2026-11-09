@@ -69,3 +69,4 @@ python <python_script_path>
 | Description | Python Script Path | Libraries |
 |-------------|--------------------|-----------|
 |Featuring Engineering  |`task1/script.py` | `pandas`, `matplotlib`, `numpy`, `scikit-learn`, `xgboost`, `seaborn` |
+|Python Machine Learning Implementation|`task2/script.py`|`pandas`, `numpy`, `matplotlib`, `seaborn`, `imbalanced-learn`|
